@@ -1,6 +1,8 @@
 # Reliable-Energy-Consumption-Analysis\
 ## Mail to : [suriyaa2002@gmail.com](mailto:suriyaa2002@gmail.com) for access to all the design documents listed below, report and full code
-## Full code also available
+
+![image](https://github.com/SuriyaaVijay/Reliable-Energy-Consumption-Analysis/assets/92075531/5f4957bd-6931-4ac7-8552-854dd878b896)
+
 
 ## Contents
 1. This project aims to predict the world active power 
